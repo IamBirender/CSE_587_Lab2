@@ -1,0 +1,11 @@
+,count,pair,word,cooccurword,alphaword
+13990,786.0,"(get,train)",get,train,gettrain
+11949,718.0,"(train,like)",like,train,liketrain
+11738,646.0,"(train,im)",im,train,imtrain
+19358,627.0,"(train,station)",station,train,stationtrain
+24457,573.0,"(train,go)",go,train,gotrain
+19489,457.0,"(train,time)",time,train,timetrain
+25336,399.0,"(train,one)",one,train,onetrain
+16142,376.0,"(peopl,train)",peopl,train,peopltrain
+4617,348.0,"(train,dont)",dont,train,donttrain
+25794,345.0,"(train,stop)",stop,train,stoptrain

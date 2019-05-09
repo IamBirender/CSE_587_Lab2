@@ -1,0 +1,11 @@
+,count,pair,word,cooccurword,alphaword
+20198,1086.0,"(bus,get)",bus,get,busget
+31443,948.0,"(bus,stop)",bus,stop,busstop
+10375,817.0,"(bus,driver)",bus,driver,busdriver
+26649,761.0,"(park,bus)",bus,park,buspark
+2178,709.0,"(bus,like)",bus,like,buslike
+20816,701.0,"(bus,im)",bus,im,busim
+14765,659.0,"(go,bus)",bus,go,busgo
+27091,642.0,"(school,bus)",bus,school,busschool
+3323,492.0,"(bus,take)",bus,take,bustake
+26091,459.0,"(one,bus)",bus,one,busone

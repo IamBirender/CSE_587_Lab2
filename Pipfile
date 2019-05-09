@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+pandas = "*"
+bs4 = "*"
+boto3 = "*"
+mrjob = "*"
+warc = "*"
+gzipstream = {editable = true,git = "https://github.com/commoncrawl/gzipstream.git"}
+
+[requires]
+python_version = "3.7"

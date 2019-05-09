@@ -1,0 +1,11 @@
+,count,pair,word,cooccurword,alphaword
+0,233.0,"(enter,phrase)",enter,phrase,enterphrase
+6,233.0,"(search,enter)",enter,search,entersearch
+31,233.0,"(email,free)",email,free,emailfree
+32,233.0,"(email,newslett)",email,newslett,emailnewslett
+34,233.0,"(enter,keyword)",enter,keyword,enterkeyword
+74,233.0,"(week,inbox)",inbox,week,inboxweek
+93,233.0,"(train,newslett)",newslett,train,newsletttrain
+108,233.0,"(week,get)",get,week,getweek
+116,233.0,"(email,train)",email,train,emailtrain
+119,233.0,"(get,newslett)",get,newslett,getnewslett

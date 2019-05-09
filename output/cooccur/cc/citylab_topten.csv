@@ -1,0 +1,11 @@
+,count,pair,word,cooccurword,alphaword
+3442,515.0,"(citi,work)",citi,work,citiwork
+2969,504.0,"(world,citi)",citi,world,citiworld
+836,495.0,"(work,citylab)",citylab,work,citylabwork
+1329,495.0,"(citi,stori)",citi,stori,citistori
+4210,494.0,"(citi,citylab)",citi,citylab,citicitylab
+7153,491.0,"(stori,tell)",stori,tell,storitell
+3600,490.0,"(need,solut)",need,solut,needsolut
+6628,490.0,"(citi,tell)",citi,tell,cititell
+375,489.0,"(citylab,tell)",citylab,tell,citylabtell
+2002,489.0,"(world,work)",work,world,workworld

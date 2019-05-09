@@ -1,0 +1,11 @@
+,count,pair,word,cooccurword,alphaword
+18141,607.0,"(like,walk)",like,walk,likewalk
+18923,567.0,"(pedestrian,cross)",cross,pedestrian,crosspedestrian
+9161,531.0,"(get,walk)",get,walk,getwalk
+42598,514.0,"(walk,away)",away,walk,awaywalk
+6052,512.0,"(walk,go)",go,walk,gowalk
+2714,408.0,"(im,walk)",im,walk,imwalk
+5507,403.0,"(walk,around)",around,walk,aroundwalk
+13193,399.0,"(walk,dont)",dont,walk,dontwalk
+43832,379.0,"(walk,peopl)",peopl,walk,peoplwalk
+26345,359.0,"(pedestrian,car)",car,pedestrian,carpedestrian

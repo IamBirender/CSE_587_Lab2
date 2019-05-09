@@ -1,0 +1,11 @@
+,count,pair,word,cooccurword,alphaword
+10694,973.0,"(get,plane)",get,plane,getplane
+22993,712.0,"(plane,im)",im,plane,implane
+8056,640.0,"(time,plane)",plane,time,planetime
+5191,609.0,"(plane,flight)",flight,plane,flightplane
+30744,580.0,"(plane,first)",first,plane,firstplane
+32850,573.0,"(plane,ticket)",plane,ticket,planeticket
+877,563.0,"(fli,plane)",fli,plane,fliplane
+4851,563.0,"(plane,crash)",crash,plane,crashplane
+23276,556.0,"(plane,like)",like,plane,likeplane
+25482,551.0,"(world,plane)",plane,world,planeworld
